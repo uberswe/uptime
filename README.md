@@ -1,6 +1,6 @@
 # uptime
 
-A simple go program which runs forever (stop it with ctrl+c). It takes two optional arguments:
+A simple go program which checks if your websites are running and runs forever (stop it with ctrl+c). It takes two optional arguments:
 
 ```
 -interval=60
